@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "TianZixing’sPersonal HomePage "
 title_separator          : "-"
-name                     : &name "TIAN ZIXING"
+name                     : &name "TianZixing’sPersonal HomePage"
 description              : &description "Space Design, Film Photography"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "TIAN ZIXING"
+  name             : "TianZixing’sPersonal HomePage"
   pronouns         : # example: "Dr"  
   bio              : "Trying to be better"
-  location         : "Earth"
+  location         : "Korea"
   employer         : "Kookmin University"
   uri              : # URL
   email            : "tianzixingth@gmail.com" 
