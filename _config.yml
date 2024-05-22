@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "my pics.png"
   name             : "TianZixing’sPersonal HomePage"
   pronouns         : # example: "Dr"  
   bio              : "Trying to be better"
